@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Gift Dialogue",
+  "Author": "GaLaxY",
+  "Version": "1.0.0",
+  "Description": "Adds support for custom reactions to a gift for NPCs",
+  "UniqueID": "galaxy256.giftdialogues",
+  "MinimumApiVersion": "3.0.0",
+  "UpdateKeys": [],
+  "ContentPackFor":{
+		"UniqueID": "Pathoschild.ContentPatcher"
+	},
+}
